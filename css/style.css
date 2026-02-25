@@ -1,0 +1,15 @@
+body{
+    background-color: darkred;
+    background-image: url("../img/Moodeng.jpeg");
+    font-family:cursive;
+}
+
+h1{
+    color: khaki;
+    background-color: darkorange;
+    width: 800px;
+    background-repeat: round;
+}
+p{
+    background-color: brown;
+}
